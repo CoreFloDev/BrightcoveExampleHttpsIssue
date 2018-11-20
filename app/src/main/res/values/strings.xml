@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BrightcoveExample</string>
+    <string name="video_error">something wrong happen</string>
+    <string name="video_error_dismiss">dismiss</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
