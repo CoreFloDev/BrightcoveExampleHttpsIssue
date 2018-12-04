@@ -1,6 +1,7 @@
 package com.example.brightcoveexample;
 
 import android.os.Bundle;
+import android.support.design.widget.Snackbar;
 import android.view.View;
 import android.view.WindowManager;
 import com.brightcove.player.appcompat.BrightcovePlayerActivity;
@@ -11,7 +12,6 @@ import com.brightcove.player.event.EventEmitter;
 import com.brightcove.player.event.EventListener;
 import com.brightcove.player.event.EventType;
 import com.brightcove.player.model.Video;
-import com.google.android.material.snackbar.Snackbar;
 
 public class TimesBrightcovePlayerActivity extends BrightcovePlayerActivity {
 
